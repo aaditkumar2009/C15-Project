@@ -40,10 +40,10 @@ swordGroup=new Group();
 
 }
 
-function vidLoad() {
-      vid.loop();
-      vid.volume(0);
-    }
+//function vidLoad() {
+  //    vid.loop();
+    //  vid.volume(0);
+   // }
 
 function draw() {
 
@@ -95,7 +95,7 @@ function draw() {
                   boy.x=200;
                   boy.y=300;
                   cashG.destroyEach();
-                  boy.scale = 1.4
+                  boy.scale = 1.2
     }
   }
   
