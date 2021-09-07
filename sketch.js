@@ -95,7 +95,7 @@ function draw() {
                   boy.x=200;
                   boy.y=300;
                   cashG.destroyEach();
-                  boy.scale = 1.2
+                  boy.scale = 0.7
     }
   }
   
